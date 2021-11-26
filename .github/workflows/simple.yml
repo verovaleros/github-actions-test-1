@@ -11,7 +11,7 @@ jobs:
             - name: multipline script
               run: |
                   node -v
-                  pip -v
+                  pip -V
                   npm -v
     run-shell-command-windows: 
         runs-on: windows-latest
