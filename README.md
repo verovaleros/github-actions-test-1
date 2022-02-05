@@ -6,3 +6,7 @@
 - [This link is not a link]()
 - [This URL is not correct](htt://test.com)
 - [This URL is not correct](http://test)
+
+
+# Metrics
+![Metrics](/github-metrics.svg)
