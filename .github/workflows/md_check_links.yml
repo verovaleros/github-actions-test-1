@@ -16,6 +16,4 @@ jobs:
         config-file: '.github/workflows/mlc_config.json'
         use-quiet-mode: 'no'
         use-verbose-mode: 'yes'
-        check-modified-files-only: 'yes'
         base-branch: 'main'
-        file-path: 'README.md'
