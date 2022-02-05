@@ -1,10 +1,10 @@
 {
     "ignorePatterns": [
 		{
-			"pattern": "^https:\/\/github\.com\/stratosphereips\/github-actions-test-1\/actions\/workflows\/md_link_check\.yml\/badge.svg"
+			"pattern": "^https:\/\/github.com\/stratosphereips\/github-actions-test-1\/actions\/workflows\/md_link_check\.yml\/badge.svg"
 		},
 	    	{
-			"pattern": "^https:\/\/wiki\.wireshark\.org\/SampleCaptures22"
+			"pattern": "^https:\/\/wiki.wireshark.org\/SampleCaptures22"
 		}
 	],
     "aliveStatusCodes": [
